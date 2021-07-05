@@ -2,7 +2,7 @@ function go_to_player(url) {
     document.querySelector(".BotHumano")
         .classList.add('BotHumanoA');
     document.querySelector(".BotHumano")
-        .insertAdjacentHTML('afterbegin', '<div class="BoxHumano"><span><b>Procesando vÃ­deo</b> <p>Por favor espere unos segundos</p></span></div>');
+        .insertAdjacentHTML('afterbegin', '<div class="BoxHumano"><span><b>Procesando vi­deo</b> <p>Por favor espere unos segundos :D</p></span></div>');
     var displayVideo = document.querySelector(".DisplayVideo");
     displayVideo.classList.add('DisplayVideoA');
     displayVideo.innerHTML = `
