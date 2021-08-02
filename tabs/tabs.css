@@ -1,0 +1,7 @@
+ul.tabs{width:100%;max-width:800px;margin:0 auto;padding:0;list-style:none;height:35px;font-size:0;line-height:0;}
+               ul.tabs li{display:inline-block;width:33.33%;margin:0;padding:0;height:35px;line-height:35px;background:#050606;overflow:hidden;position:relative;border:0px solid #fff;border-bottom:0;box-sizing:border-box;border-radius:0px 0px 0 0;}
+               ul.tabs li a{display:block;text-decoration:none;color:#fff;font-size:14px;text-align:center;border:0px solid #fff;box-sizing:border-box;border-radius:0px 0px 0 0;}
+               ul.tabs li a:hover{background:DarkOrange;}
+               ul.tabs li.activa,ul.tabs li.activa a,ul.tabs li.activa a:hover{color:#fff;font-weight:700;background:DarkOrange;}
+               .contenedor_tab{width:100%;max-width:800px;margin:-1px auto 0;padding:0;background:#000;border:0px solid #000;border-top:0;box-sizing:border-box;border-radius:0 0 0px 0px;}
+               .contenido_tab{padding:10px;font-size:14px;box-sizing:border-box;}
