@@ -1,0 +1,7 @@
+               /* Blog Pager */
+               #blog-pager{display:table;text-align:center;padding:20px 0;margin:0 auto;border-bottom:1px solid rgba(0,0,0,0.05);border-top:1px solid rgba(0,0,0,0.05);width:100%}
+               #blog-pager-newer-link,#blog-pager-older-link{float:none;display:inline-block;margin:0 5px}
+               #blog-pager a{display:block;border:1px solid;margin:0;padding:0 15px;width:45px;font-size:20px;line-height:24px;color:#ff5000;font-weight:400;border-radius:3px;z-index:90}
+               #blog-pager a:hover{background:#ff5000;color:#fff;border-color:#ff5000}
+               #blog-pager .home-link{display:none}
+               #HTML98{margin:0 auto 20px auto}
