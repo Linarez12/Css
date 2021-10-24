@@ -27,7 +27,7 @@ select.addEventListener('click', () => {
 /*open modal*/
 function mostrar_modal_t1e1() {
   modal_t1e1.style.display = "flex";
-  iframe_t1e1.src = "https://uqload.com/embed-xa61dn1kp45u.html";
+  iframe_t1e1.src = "https://api.cuevana3.io/ir/goto_ddh.php?h=cHdlSGU2VjczUUVPODNNUXI0UWVpTEk3SGFLbjZaWUNQdStvVGEzUGc4N2JVR0hidXVrWWdnNmVMZldPZnBuOVVsZ3NtN09XdFdBaDZGT1BWZ3lTdGUwUHNLZzk1a3g2Z3JyVjBsbTJHMmVSK0Z4QTB3Nk41Ti9qeHMyRkNHcklsc2ZJdjdKZlptODFyWmR5SXFWZW9RPT0";
   body.style.overflow = "hidden";
 }
 function mostrar_modal_t1e2() {
